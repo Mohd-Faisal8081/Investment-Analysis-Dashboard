@@ -44,12 +44,10 @@ The **Investment Analysis Dashboard** is designed to provide detailed insights i
 6. **Information Sources**: Identification of the most relied-upon sources for investment information (e.g., Financial Consultants, Newspapers and Magazines).
 
 ### **Dashboard**
-[Link to your Power BI Dashboard PDF/Image (e.g., Dashboard.pdf or Dashboard.png once uploaded to GitHub)]
-(Replace this placeholder with the actual link to your dashboard image or PDF once you upload it to the GitHub repository.)
+- https://github.com/Mohd-Faisal8081/Investment-Analysis-Dashboard/blob/main/Dashboard.pdf
 
 ### **Dataset**
-[Link to your dataset file (e.g., Data_set 2.csv once uploaded to GitHub)]
-(Replace this placeholder with the actual link to your dataset once you upload it to the GitHub repository.)
+- https://github.com/Mohd-Faisal8081/Investment-Analysis-Dashboard/blob/main/Dataset.csv
 
 ### **Author**
 **Mohd Faisal**
