@@ -19,7 +19,7 @@ The **Investment Analysis Dashboard** is designed to provide detailed insights i
 5. **Reasons for Investment**: Analyzes the primary reasons individuals invest (e.g., Better Returns, Tax Benefits, Assured Returns).
 6. **Source of Information**: Shows where individuals get their investment information (e.g., Internet, Financial Consultants, Newspapers).
 
-#### **Process**
+### **Process**
 1. **Data Cleaning**
 - Removed missing and duplicate data entries to ensure data integrity.
 - Standardized column names and formatted data for consistency.
