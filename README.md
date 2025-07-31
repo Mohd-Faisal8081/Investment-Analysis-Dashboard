@@ -29,8 +29,7 @@ The **Investment Analysis Dashboard** is designed to provide detailed insights i
 - Utilized Power BI's Power Query Editor for data shaping and cleaning.
 - Created calculated columns and measures using DAX (Data Analysis Expressions) for key metrics like average age, and percentages of various investment types.
 
-3. **Visualization**
-- Created various visual elements such as:
+3. **Visualization** Created various visual elements such as:
 - Bar charts for gender-based investment comparisons.
 - Pie charts for distribution of investment avenues and saving objectives.
 - Treemaps to show the relationship between objectives and avenues.
